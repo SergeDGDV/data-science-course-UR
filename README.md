@@ -1,4 +1,4 @@
-# DSQL, Python & NLP for User Research Team
+# SQL, Python & NLP for User Research Team
 ## Introduction & Motivation
 
 As the voice of the player inside Paradox Interactive, the User Research team plays a critical role in shaping our games. From surveys and user testing to review analysis and sentiment tracking, your work is essential to helping designers, producers, and leadership understand how players feel, behave, and respond to what we build.
