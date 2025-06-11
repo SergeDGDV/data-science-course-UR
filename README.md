@@ -60,15 +60,10 @@ The objective is to provide practical skills in Python to analyze structured and
 ### Detailed Session Breakdown (15 Sessions)
 
 #### Session 1: Python for Research
-Topics: What is Python, installing Anaconda, using Jupyter
-Time
-Activity
-0–30 min
-Setup: Install Anaconda, create first Jupyter notebook
-30–60 min
-Basic Python syntax: variables, lists, functions
-60–90 min
-Load a CSV using Pandas and display contents
+```Topics```: What is Python? Installing Anaconda and using Jupyter
+```Setup```: Install Anaconda, create first Jupyter notebook
+```Basic Python syntax```: variables, lists, functions
+* Load a CSV using Pandas and display contents
 
 
 #### Session 2: Data Cleaning
