@@ -128,10 +128,3 @@ The objective is to provide practical skills in Python to analyze structured and
 * <b>Tools</b>: Jupyter Notebooks, Python (Anaconda), SQL editor, VADER/TextBlob/NLTK
 * <b>Materials</b>: Clean sample datasets (Steam reviews, survey exports), code notebooks, cheat sheets
 * <b>Support</b>: Access to internal channel for Q&A and shared resources
-
-
-
-
-
-
-
